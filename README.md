@@ -14,7 +14,7 @@ approaches. I run a blog focused on rational thinking practices.
 ### My skills include
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,cpp,kubernetes,docker,bitbucket,gitlab,aws,azure,gitlab,git,github,vscode,linux,postgres,ubuntuvim,notion" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,cpp,kubernetes,docker,bitbucket,gitlab,aws,azure,gitlab,git,github,vscode,linux,postgres,ubuntu,vim,notion" />
   </a>
 </p>
 
