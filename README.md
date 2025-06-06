@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Vitalii Markov,
 
-I work with classic machine learning models and handle the entire process: from collecting and preparing data to training models, tracking
+I work with **classic machine learning** models and handle the **entire process**: from collecting and preparing data to training models, tracking
 metrics, packaging them into production services, and setting up CI/CD for automatic deployment.
 I constantly follow the latest ML research and trends to apply the most effective and modern approaches to real
-projects. As a hobby, I write ML lectures in simple words, which helps me organize my knowledge. I also write
-articles about systematic and rational thinking, exploring cognitive biases and practical decision-making
-approaches. I run a blog focused on rational thinking practices.
+projects. 
 
 - ⚡ Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.
 - 🔍 I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
