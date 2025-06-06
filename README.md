@@ -21,7 +21,7 @@ projects.
    <i>⚖️ Building a superintelligent AI is like trying to build a god that doesn’t accidentally end the world. Good intentions aren’t enough; you need precision.</i>
 
 <br>
-<a target="_blank" href="linkedin.com/in/vitaliimarkov/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/vitaliimarkov/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:markovvitaly1290@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <br>
