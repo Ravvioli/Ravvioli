@@ -9,7 +9,7 @@ approaches. I run a blog focused on rational thinking practices.
 
 - ⚡ Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.
 - 🔍 I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Games, Memes, Rationality, Medicine, Biological Determinism 
+- 💬 Talk to me about Games, AI, Rationality, Medicine, Biology(esp. Evolution and Determinism) 
 
 ### My skills include
 <p align="center">
